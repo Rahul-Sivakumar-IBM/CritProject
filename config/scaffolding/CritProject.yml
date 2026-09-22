@@ -12,3 +12,8 @@ packages:
   gitUrl: https://github.com/Rahul-Sivakumar-IBM
   gitUsername: Rahul-Sivakumar-IBM
   gitBranch: "1.0"
+- name: JcHelloWorldAPI
+  gitServerName: rahulsivakumar
+  gitUrl: https://github.com/johnpcarter
+  gitUsername: Rahul-Sivakumar-IBM
+  gitTag: v1.0.0
