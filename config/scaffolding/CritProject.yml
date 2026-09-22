@@ -1,14 +1,14 @@
+version: "1.0"
 info:
   model: int-scaffold
 packages:
-- gitBranch: main
+- name: CritProject
   gitServerName: rahulsivakumar
   gitUrl: https://github.com/Rahul-Sivakumar-IBM
   gitUsername: Rahul-Sivakumar-IBM
-  name: CritProject
-- gitBranch: '1.0'
+  gitBranch: main
+- name: TPPWithVar
   gitServerName: rahulsivakumar
   gitUrl: https://github.com/Rahul-Sivakumar-IBM
   gitUsername: Rahul-Sivakumar-IBM
-  name: TPPWithVar
-version: '1.0'
+  gitBranch: "1.0"
