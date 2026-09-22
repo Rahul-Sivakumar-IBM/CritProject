@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/Rahul-Sivakumar-IBM
   gitUsername: Rahul-Sivakumar-IBM
   gitBranch: main
+- name: TPPWithVar
+  gitServerName: rahulsivakumar
+  gitUrl: https://github.com/Rahul-Sivakumar-IBM
+  gitUsername: Rahul-Sivakumar-IBM
+  gitBranch: "1.0"
