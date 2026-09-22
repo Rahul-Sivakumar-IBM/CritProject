@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: CritProject
+  gitServerName: rahulsivakumar
+  gitUrl: https://github.com/Rahul-Sivakumar-IBM
+  gitUsername: Rahul-Sivakumar-IBM
+  gitBranch: main
